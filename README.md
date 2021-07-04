@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+I'm a CS student, currently working finishing my BSc at Ben Gurion.
+And starting my M.Sc at Ben Gurion university.
+Current projects in progress:
+- this readme
+- fixing some repositories and clean up my github
+- add clean cv to here
 <!--
 **Zisling/Zisling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
